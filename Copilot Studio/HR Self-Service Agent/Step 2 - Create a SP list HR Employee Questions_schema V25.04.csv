@@ -1,0 +1,12 @@
+﻿ListSchema={"schemaXmlList":["<Field ID=\"{fa564e0f-0c70-4ab9-b863-0177e6ddd247}\" Type=\"Text\" Name=\"Title\" DisplayName=\"Title\" Required=\"FALSE\" SourceID=\"http://schemas.microsoft.com/sharepoint/v3\" StaticName=\"Title\" FromBaseType=\"TRUE\" MaxLength=\"255\" />","<Field ID=\"{3f5bac6f-0e52-49d5-8187-568a6c2cae35}\" DisplayName=\"Employee Name\" Name=\"field_4\" StaticName=\"field_4\" Type=\"Text\" />","<Field ID=\"{bfed9ca1-d772-4ebe-b83d-5ea8e96421ed}\" DisplayName=\"Employee Email\" Name=\"field_6\" StaticName=\"field_6\" Type=\"Text\" />","<Field ID=\"{f7da51bc-6e93-42a0-93e4-87e70d5bfaad}\" DisplayName=\"Issue Description\" Name=\"field_8\" StaticName=\"field_8\" Type=\"Note\" />","<Field ID=\"{a7572207-fac3-4c0b-b7eb-1481f9a0ee1d}\" DisplayName=\"Resolution\" Name=\"field_9\" StaticName=\"field_9\" Type=\"Note\" />","<Field ID=\"{73065e90-083f-4941-af3d-14559ca1c628}\" DisplayName=\"Action Required\" Name=\"field_10\" StaticName=\"field_10\" Type=\"Note\" />","<Field ID=\"{8bb0f0fb-6b5f-4060-b4ad-869e209580c6}\" DisplayName=\"Priority\" Name=\"field_12\" StaticName=\"field_12\" Type=\"Number\" />","<Field ID=\"{27f6b6b7-bb80-4bb4-bd41-ab6bcf4c1bd3}\" DisplayName=\"Ticket Source\" Name=\"field_13\" StaticName=\"field_13\" Type=\"Text\" />","<Field Type=\"Text\" DisplayName=\"Assigned To\" Required=\"FALSE\" EnforceUniqueValues=\"FALSE\" Indexed=\"FALSE\" MaxLength=\"255\" ID=\"{5bd9639e-1e7c-4c57-9673-2693545cc6fb}\" StaticName=\"Assigned_x0020_To\" Name=\"Assigned_x0020_To\" />","<Field Type=\"Text\" DisplayName=\"Status\" Required=\"FALSE\" EnforceUniqueValues=\"FALSE\" Indexed=\"FALSE\" MaxLength=\"255\" ID=\"{f079cec2-c3f6-4de8-ab90-cf41ca3b6866}\" StaticName=\"Status\" Name=\"Status\" />"]}
+"Title","Employee Name","Employee Email","Issue Description","Resolution","Action Required","Priority","Ticket Source","ID","Assigned To","Status","Created By"
+"Dummy",,"Dummy@dds.com","Dummy
+Dummy
+Dummy
+","Dummy
+Dummy
+Dummy
+","Dummy
+Dummy
+Dummy
+","3","HR Agent","149","HR","Open","CoreyG@M365CPI31198992.OnMicrosoft.com"
